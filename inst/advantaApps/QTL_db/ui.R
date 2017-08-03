@@ -2,7 +2,7 @@ library(shiny)
 
 ui = fluidPage(
   fluidRow(
-    titlePanel(title=div(img(src='advanta.png', align='center'), 'Beta_v_1.1.2'))
+    titlePanel(title=div(img(src='advanta.png', align='center'), 'Git_0.0.0.9000'))
     )
 
   , fluidRow(
